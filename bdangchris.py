@@ -141,7 +141,7 @@ def answercheck(answers, guess):
         print(f'Wrong!')
         return 0
 
-
+ifMain()
 quizgame()
 
 
